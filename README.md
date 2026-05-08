@@ -28,7 +28,7 @@ This script:
 
 ```bash
 # Clone this repo
-git clone https://github.com/YOUR_USERNAME/rpow3-tg-miner.git
+git clone https://github.com/gowthamaran/rpow3-tg-miner.git
 cd rpow3-tg-miner
 
 # Install dependencies
