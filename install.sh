@@ -8,7 +8,7 @@ set -e
 
 echo ""
 echo "╔══════════════════════════════════════════════╗"
-echo "║   RPOW3 MINER + TELEGRAM BOT INSTALLER      ║"
+echo "║   RPOW3 MINER + TELEGRAM BOT INSTALLER               ║
 echo "╚══════════════════════════════════════════════╝"
 echo ""
 
@@ -30,7 +30,7 @@ else
     echo ""
     echo "→ Cloning repo..."
     # REPLACE THIS URL WITH YOUR GITHUB REPO URL
-    git clone https://github.com/YOUR_USERNAME/rpow3-tg-miner.git "$REPO_DIR"
+    git clone https://github.com/gowthamaran/rpow3-tg-miner "$REPO_DIR"
     cd "$REPO_DIR"
 fi
 
